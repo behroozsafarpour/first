@@ -1,4 +1,10 @@
 body { background-color:#AFD3E2; } 
+h1 {
+     color: brown;
+   }   
+h3 {
+     color: green;
+   } 
 hr { 
      border-style: none;
      border-top-style: dotted;
@@ -6,9 +12,4 @@ hr {
      border-width: 5px;
      width: 15%;
    }
-h1 {
-     color: brown;
-   }   
-h3 {
-     color: goldenrod;
-   } 
+
