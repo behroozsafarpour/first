@@ -16,11 +16,13 @@ h1 {
   width: 200px;
   height: 200px;
   border: solid 20px;
-  margin-left: 240px;
+  margin-left: 260px;
 }
 .bottom-container{
    background-color:blue;
    width: 200px;
    height: 200px;
+   border: solid 10px;
+   margin-left: 470px;
 }
 
