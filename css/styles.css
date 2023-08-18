@@ -17,7 +17,8 @@ h1 {
 }
 .top-cl {
   position: absolute;
-  
+  right: 300px;
+  top: 50px;
 }
 .bottom-cl{
   position: absolute;
