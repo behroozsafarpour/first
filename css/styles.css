@@ -5,9 +5,10 @@ text-align:center;
 h1 {
   margin-top:0;
 }
-.top-container {
-  background-color:#E4EFEB;
-}
+  .top-container {
+    background-color:#E4EFEB;
+    padding-top: 100px;
+  }
 .middle-container{
 
 }
